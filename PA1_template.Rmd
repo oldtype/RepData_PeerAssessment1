@@ -58,7 +58,7 @@ max_interval <- avg[avg$x %in% max(avg$x), ]
 max_interval
 ```
 
-answer: 104th interval has the maximum number of steps (averged accross all the days)
+answer: 835th interval has the maximum number of steps (averged accross all the days)
 
 ## Imputing missing values
 
